@@ -14,5 +14,3 @@ longitude of the location via SMS and hence can be used in times of emergency.
 # Requirements
 - Android Studio
 - An Android device.
-# Usages
-![alt text](https://github.com/Hkaps1997/Locations/blob/master/Screenshot_2018-04-30-00-21-55-743_com.example.harshit.locations.png)
